@@ -1,6 +1,6 @@
 ---
 ID: 5
-post_title: Home
+post_title: Acceuil
 author: TInirau
 post_excerpt: ""
 layout: page
