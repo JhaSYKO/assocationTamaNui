@@ -30,10 +30,4 @@ post_date: 2018-06-17 23:11:09
 							<a href="https://www.facebook.com/AssociationTamaNui/" target="_blank">
 					Facebook
 				</a>
-							<a href="" target="_blank">
-					Twitter
-				</a>
-							<a href="" target="_blank">
-					Google-plus
-				</a>
 										<img width="1024" height="584" src="http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-1024x584.png" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-1024x584.png 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-300x171.png 300w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-768x438.png 768w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui.png 1428w" sizes="(max-width: 1024px) 100vw, 1024px" />
