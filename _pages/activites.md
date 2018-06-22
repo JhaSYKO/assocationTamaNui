@@ -9,70 +9,25 @@ permalink: >
 published: true
 post_date: 2018-06-17 23:11:09
 ---
-<h2>Jardinage</h2>
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre-1024x614.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre-768x461.jpg 768w" alt="" width="1024" height="614" />
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-1024x769.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-1024x769.png 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-300x225.png 300w, http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-768x577.png 768w" alt="" width="1024" height="769" />
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre-1024x614.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre-768x461.jpg 768w" alt="" width="1024" height="614" />
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front-1024x614.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front-768x461.jpg 768w" alt="" width="1024" height="614" />
-<h5>Vous n'avez pas le temps de faire votre cour?</h5>
-<h5>De lundi à vendredi vous êtes au travail?</h5>
-<h5>Vous aimeriez que votre cour soit faite pour vous y balader à votre retour?</h5>
-<h5>Et bien Tama Nui est là pour vous. Nous vous proposons diverses solutions :</h5>
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies-1024x614.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies-768x461.jpg 768w" alt="" width="1024" height="614" />
-<ul>
- 	<li>
-<h5> Débroussaillages</h5>
-</li>
- 	<li>
-<h5>Ratissages</h5>
-</li>
- 	<li>
-<h5>Ramassages de déchets vert</h5>
-</li>
- 	<li>
-<h5> Élagage d'arbustes</h5>
-</li>
- 	<li>
-<h5> Déblaiement d'un terrain</h5>
-</li>
-</ul>
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-coter-mer.jpg" sizes="(max-width: 640px) 100vw, 640px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-coter-mer.jpg 640w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-coter-mer-300x225.jpg 300w" alt="" width="640" height="480" />
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-brouette-bassin.jpg" sizes="(max-width: 640px) 100vw, 640px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-brouette-bassin.jpg 640w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-brouette-bassin-300x225.jpg 300w" alt="" width="640" height="480" />
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia-1024x614.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia-768x461.jpg 768w" alt="" width="1024" height="614" />
-<h2>Petits travaux</h2>
-<h4>Plus encore que du jardinage, Tama Nui vous propose également des petits travaux tels que :</h4>
-<ul>
- 	<li>
-<h5>Métallurgie</h5>
-</li>
- 	<li>
-<h5>Maçonnerie</h5>
-</li>
- 	<li>
-<h5>Mécanique</h5>
-</li>
- 	<li>
-<h5>Artisanat</h5>
-</li>
- 	<li>
-<h5>Ménage</h5>
-</li>
- 	<li>
-<h5>Architecture</h5>
-</li>
- 	<li>
-<h5>Menuiserie</h5>
-</li>
-</ul>
-<img title="petit travaux soudure meca etc" src="http://associationtamanui.online/wp-content/uploads/elementor/thumbs/petit-travaux-soudure-meca-etc-nrowei0vcv8gfn208fsnlmazp8q12tktchchgm4mgo.jpg" alt="Petit travaux de soudure et mecanique" />
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu-1024x614.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu-768x461.jpg 768w" alt="" width="1024" height="614" />
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier-1024x614.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier-768x461.jpg 768w" alt="" width="1024" height="614" />
-<img title="assied sur un table coolas" src="http://associationtamanui.online/wp-content/uploads/elementor/thumbs/assied-sur-un-table-coolas-nrowdm2cwi14tccn63zon68tsixp9j1bu7acnxc8me.jpg" alt="assied sur un table coolas" />
-<h3>N'hésitez plus et prenez contact avec nous.</h3>
-<h4>Votre équipe Tama Nui</h4>
-<h5>Tel : <strong>87 32 65 18</strong></h5>
-<h5>E-mail : associationtamanui@yahoo.com</h5>
-<a href="https://www.facebook.com/AssociationTamaNui/" target="_blank" rel="noopener">
-Facebook
-</a>
-<img src="http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-1024x584.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-1024x584.png 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-300x171.png 300w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-768x438.png 768w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui.png 1428w" alt="" width="1024" height="584" />
+<h2>Jardinage</h2>		
+										<img width="1024" height="614" src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre-1024x614.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-centre-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="1024" height="769" src="http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-1024x769.png" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-1024x769.png 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-300x225.png 300w, http://associationtamanui.online/wp-content/uploads/2018/06/Logo-ex-768x577.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="1024" height="614" src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre-1024x614.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-petit-lac-au-centre-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="1024" height="614" src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front-1024x614.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-deux-debroussailleuse-front-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+		<h5>Vous n'avez pas le temps de faire votre cour?</h5><h5>De lundi à vendredi vous êtes au travail?</h5><h5>Vous aimeriez que votre cour soit faite pour vous y balader à votre retour?</h5><h5>Et bien Tama Nui est là pour vous. Nous vous proposons diverses solutions :</h5>		
+										<img width="1024" height="614" src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies-1024x614.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-cocoteraies-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+		<ul><li><h5> Débroussaillages</h5></li><li><h5>Ratissages</h5></li><li><h5>Ramassages de déchets vert</h5></li><li><h5> Élagage d'arbustes</h5></li><li><h5> Déblaiement d'un terrain</h5></li></ul>		
+										<img width="640" height="480" src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-coter-mer.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-coter-mer.jpg 640w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-coter-mer-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />											
+										<img width="640" height="480" src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-brouette-bassin.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-brouette-bassin.jpg 640w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-brouette-bassin-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />											
+										<img width="1024" height="614" src="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia-1024x614.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/vaipahi-bassin-tilapia-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+			<h2>Petits travaux</h2>		
+		<h4>Plus encore que du jardinage, Tama Nui vous propose également des petits travaux tels que :</h4><ul><li><h5>Métallurgie</h5></li></ul><p>Travaux sur différents types de métaux,...</p><ul><li><h5>Maçonnerie</h5></li></ul><p>Construction de maisons, murs, terrasses,...</p><ul><li><h5>Mécanique</h5></li></ul><p>Réparation mécanique, aide et dépannage,...</p><ul><li><h5>Artisanat</h5></li></ul><p>Tressages, décorations locales,...</p><ul><li><h5>Ménage</h5></li></ul><p>Entretiens locaux, maisons, etc...</p><ul><li><h5>Architecture</h5></li></ul><p>Conseils et devis gratuits, réaménagements,...</p><ul><li><h5>Menuiserie</h5></li></ul><p>Travaux sur le bois, découpes, entretiens,etc...</p>		
+										<img src="http://associationtamanui.online/wp-content/uploads/elementor/thumbs/petit-travaux-soudure-meca-etc-nrowei0vcv8gfn208fsnlmazp8q12tktchchgm4mgo.jpg" title="petit travaux soudure meca etc" alt="Petit travaux de soudure et mecanique" />											
+										<img width="1024" height="614" src="http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu-1024x614.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/tressage-artisanal-douche-taharuu-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="1024" height="614" src="http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier-1024x614.jpg" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier.jpg 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier-300x180.jpg 300w, http://associationtamanui.online/wp-content/uploads/2018/06/taharuu-douche-poteau-relier-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img src="http://associationtamanui.online/wp-content/uploads/elementor/thumbs/assied-sur-un-table-coolas-nrowdm2cwi14tccn63zon68tsixp9j1bu7acnxc8me.jpg" title="assied sur un table coolas" alt="assied sur un table coolas" />											
+		<h3>N'hésitez plus et prenez contact avec nous.</h3><h4>Votre équipe Tama Nui</h4><h5>Tel : <strong>87 32 65 18</strong></h5><h5>E-mail : associationtamanui@yahoo.com</h5>		
+							<a href="https://www.facebook.com/AssociationTamaNui/" target="_blank">
+					Facebook
+				</a>
+										<img width="1024" height="584" src="http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-1024x584.png" alt="" srcset="http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-1024x584.png 1024w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-300x171.png 300w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui-768x438.png 768w, http://associationtamanui.online/wp-content/uploads/2018/06/Les-responsables-de-Tama-nui.png 1428w" sizes="(max-width: 1024px) 100vw, 1024px" />
